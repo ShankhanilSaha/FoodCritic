@@ -6,9 +6,12 @@ A native android app made using kotlin which shows a bunch of Categories of food
 
 ## Screenshots
 
-![Application Screenshots](https://github.com/ShankhanilSaha/FoodCritic/blob/master/Screen.jpeg) 
-
-![Application Screenshots](https://github.com/ShankhanilSaha/FoodCritic/blob/master/DetailsScreen.jpeg) 
+<table>
+  <tr>
+    <td><img src="https://github.com/ShankhanilSaha/FoodCritic/blob/master/Screen.jpeg" alt="Main Screen" width="300"/></td>
+    <td><img src="https://github.com/ShankhanilSaha/FoodCritic/blob/master/DetailsScreen.jpeg" alt="Details Screen" width="300"/></td>
+  </tr>
+</table>
 
 
 
